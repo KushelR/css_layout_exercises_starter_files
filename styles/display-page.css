@@ -1,0 +1,51 @@
+.main {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.first div {
+  border: 1px solid black;
+  height: inherit;
+  display: inline-block;
+  font-size: 0px;
+  width: 50%;
+}
+
+.second div {
+  border: 1px solid black;
+  height: inherit;
+  display: inline-block;
+  font-size: 0px;
+  width: 33.33%;
+}
+
+.first {
+  height: 200px;
+  font-size: 0px;
+}
+
+.second {
+  height: 300px;
+  font-size: 0px;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.black {
+  background-color: black;
+}
+
+.yellow {
+  background-color: orange;
+}
